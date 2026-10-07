@@ -1,0 +1,12 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [75.3, 42.8]}, "properties": {"name": "李白", "place": "碎叶城"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [112.9, 34.8]}, "properties": {"name": "杜甫", "place": "河南巩义"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [112.3, 37.3]}, "properties": {"name": "王维", "place": "山西祁县"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [112.1, 32.0]}, "properties": {"name": "孟浩然", "place": "湖北襄阳"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [116.3, 37.7]}, "properties": {"name": "高适", "place": "河北景县"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [112.5, 37.9]}, "properties": {"name": "王昌龄", "place": "山西太原"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [112.3, 32.5]}, "properties": {"name": "岑参", "place": "河南新野"}}
+  ]
+}
